@@ -1,0 +1,28 @@
+.panda-card{
+    border: 0;
+    padding: 1rem;
+}
+.catagories img{
+    width: 5rem;
+}
+.pink{
+    background-color: rgb(216, 98, 216);
+}
+.panda-slide{
+    height: 30em;
+    border-radius: 1em;
+}
+
+.panda-slide .carousel-item{
+    background-color:#fceae8 ;
+}
+.last{
+    background-color: #fceae8;
+}
+.btn{
+    border: 0;
+    background: linear-gradient(rgb(230, 105, 105),rgb(252, 4, 4));
+}
+
+
+
